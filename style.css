@@ -49,12 +49,10 @@ body{
 .place-container .time-zone{
     font-size: 30px;
     font-weight: 700;
-    color: #040303;
 }
 
 .place-container .country{
     font-size: 20px;
-    color: #160040;
     font-weight: 700;
 }
 
